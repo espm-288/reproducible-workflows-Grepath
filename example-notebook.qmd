@@ -2,7 +2,12 @@
 title: "example-notebook.qmd"
 format: html
 editor: visual
+author: Carl Boettiger Seminar
 ---
+
+
+
+
 
 ## Quarto
 
